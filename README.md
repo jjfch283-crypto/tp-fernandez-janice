@@ -17,6 +17,6 @@ Aplicación web de una sola pantalla que permite buscar episodios de Rick y Mort
 Abre `index.html` en un navegador. Se necesita conexión a internet para consultar la API.
 
 ## Captura de pantalla
-Guarda una captura de tu página funcionando dentro de la carpeta `img` con el nombre `captura.png` y agrega aquí:
+
 
 ![Captura de pantalla](img/captura.png)
