@@ -12,7 +12,7 @@ Enlaces del proyecto
 
 - Repositorio GitHub: https://github.com/jjfch283-crypto/tp-fernandez-janice
 - GitHub Pages: https://jjfch283-crypto.github.io/tp-fernandez-janice/
-- Vercel: Pendiente de publicación.
+- **Netlify:** https://tp-fernandez-janice.netlify.app/
 
 Funcionalidades
 
@@ -57,8 +57,13 @@ Ejecución local
 
 Despliegue
 
-El proyecto se publica mediante GitHub Pages. También se configurará en Vercel, conectado al repositorio de GitHub para permitir actualizaciones automáticas al integrar cambios en la rama "main".
+**## Despliegue
+El proyecto está publicado en dos plataformas:
 
+- GitHub Pages: https://jjfch283-crypto.github.io/tp-fernandez-janice/
+- Netlify: https://tp-fernandez-janice.netlify.app/
+
+Netlify está conectado al repositorio de GitHub y se actualiza automáticamente con cada cambio integrado en la rama main.**
 Control de versiones
 
 El proyecto utiliza Git y GitHub para el seguimiento de cambios. Se implementó una rama de funcionalidades y un Pull Request integrado a la rama principal "main".
